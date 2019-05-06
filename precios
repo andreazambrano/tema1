@@ -1,0 +1,167 @@
+<section id="price" class="g-py-6">
+	<!-- Section title -->
+	<div class="section-title text-center">
+		<span class="page-number fw-bold mb-3">05 / 09</span>
+		<h2 class="text-uppercase fw-600">Planes de precio.</h2>
+	</div>
+	<!-- End section title -->
+	
+	<!-- Grid wrap -->
+	<div class="container">
+		<!-- Nav tabs -->
+		<nav class="justify-content-center d-flex border-bottom-v1">
+			<div class="nav nav-tabs fs-14 text-uppercase" id="nav-tab-v2" role="tablist">
+				<a class="nav-item nav-link active" id="nav-monthly-tab" data-toggle="tab" href="index.html#nav-monthly" role="tab" aria-controls="nav-monthly" aria-selected="true">Monthly</a>
+				<a class="nav-item nav-link" id="nav-yearly-tab" data-toggle="tab" href="index.html#nav-yearly" role="tab" aria-controls="nav-yearly" aria-selected="false">Yearly</a>
+			</div>
+		</nav>
+		<!-- End Nav tabs -->
+		
+		<!-- Tab content -->
+		<div class="tab-content pt-5" id="nav-tabContent-v2">
+			<!-- Tab_panel_1 -->
+			<div class="tab-pane fade show active" id="nav-monthly" role="tabpanel" aria-labelledby="nav-monthly-tab">
+				<!-- Grid row -->
+				<div class="row">
+					<!-- Grid column -->
+					<div class="col-lg-4 col-md-6 g-mb-md-2">
+						<div class="pricing text-center box-shadow-v1 p-5 rounded-12">
+							<h2 class="fs-18 ff-rubik text-uppercase">Standart</h2>
+							<div class="pricing-value ff-Montserrat fw-600">
+								<span class="fs-40">$</span>
+								<span class="fs-70">9<sup>99</sup></span>
+								<span class="pricing-month">month</span>
+							</div>
+							<div class="pricing-body">
+								<p class="mb-2"><strong>1</strong> User</p>
+								<p class="mb-2"><strong>5</strong> Projects</p>
+								<p class="mb-2"><strong>10Gb</strong> Storage</p>
+								<p class="mb-2"><strong>5</strong> Email Accounts</p>
+								<p class="mb-2"><strong>24/7</strong> Support</p>
+							</div>
+							<button class="btn btn-theme mt-4">Choose this plan</button>
+						</div>
+					</div>
+					<!-- End grid column -->
+					
+					<!-- Grid column -->
+					<div class="col-lg-4 col-md-6 g-mb-md-2">
+						<div class="pricing g-bg-theme text-center box-shadow-v2 p-5 rounded-12">
+							<h2 class="fs-18 ff-rubik text-uppercase">Premium</h2>
+							<div class="pricing-value ff-Montserrat fw-600">
+								<span class="fs-40">$</span>
+								<span class="fs-70">29<sup>99</sup></span>
+								<span class="pricing-month">month</span>
+							</div>
+							<div class="pricing-body">
+								<p class="mb-2"><strong>3</strong> User</p>
+								<p class="mb-2"><strong>10</strong> Projects</p>
+								<p class="mb-2"><strong>30Gb</strong> Storage</p>
+								<p class="mb-2"><strong>10</strong> Email Accounts</p>
+								<p class="mb-2"><strong>24/7</strong> Support</p>
+							</div>
+							<button class="btn btn-outline-theme mt-4">Choose this plan</button>
+						</div>
+					</div>
+					<!-- End grid column -->
+					
+					<!-- Grid column -->
+					<div class="col-lg-4 col-md-6 m-auto g-mb-md-2">
+						<div class="pricing text-center box-shadow-v1 p-5 rounded-12">
+							<h2 class="fs-18 ff-rubik text-uppercase">Business</h2>
+							<div class="pricing-value ff-Montserrat fw-600">
+								<span class="fs-40">$</span>
+								<span class="fs-70">59<sup>99</sup></span>
+								<span class="pricing-month">month</span>
+							</div>
+							<div class="pricing-body">
+								<p class="mb-2"><strong>5</strong> User</p>
+								<p class="mb-2"><strong>15</strong> Projects</p>
+								<p class="mb-2"><strong>50</strong> Storage</p>
+								<p class="mb-2"><strong>15</strong> Email Accounts</p>
+								<p class="mb-2"><strong>24/7</strong> Support</p>
+							</div>
+							<button class="btn btn-theme mt-4">Choose this plan</button>
+						</div>
+					</div>
+					<!-- End grid column -->
+				</div>
+				<!-- End grid row -->
+			</div>
+			<!-- End tab_panel_1 -->
+			
+			<!-- Tab_panel_2 -->
+			<div class="tab-pane fade" id="nav-yearly" role="tabpanel" aria-labelledby="nav-yearly-tab">
+				<!-- Grid row -->
+				<div class="row">
+					<!-- Grid column -->
+					<div class="col-lg-4 col-md-6 g-mb-md-2">
+						<div class="pricing text-center box-shadow-v1 p-5 rounded-12">
+							<h3 class="h6 ff-rubik text-uppercase">Standart</h3>
+							<div class="pricing-value ff-Montserrat fw-600">
+								<span class="fs-40">$</span>
+								<span class="fs-70">19<sup>99</sup></span>
+								<span class="pricing-month">yearly</span>
+							</div>
+							<div class="pricing-body">
+								<p class="mb-2"><strong>1</strong> User</p>
+								<p class="mb-2"><strong>5</strong> Projects</p>
+								<p class="mb-2"><strong>10Gb</strong> Storage</p>
+								<p class="mb-2"><strong>5</strong> Email Accounts</p>
+								<p class="mb-2"><strong>24/7</strong> Support</p>
+							</div>
+							<button class="btn btn-theme mt-4">Choose this plan</button>
+						</div>
+					</div>
+					<!-- End grid column -->
+					
+					<!-- Grid column -->
+					<div class="col-lg-4 col-md-6 g-mb-md-2">
+						<div class="pricing g-bg-theme text-center box-shadow-v2 p-5 rounded-12">
+							<h3 class="h6 ff-rubik text-uppercase">Premium</h3>
+							<div class="pricing-value ff-Montserrat fw-600">
+								<span class="fs-40">$</span>
+								<span class="fs-70">49<sup>99</sup></span>
+								<span class="pricing-month">yearly</span>
+							</div>
+							<div class="pricing-body">
+								<p class="mb-2"><strong>3</strong> User</p>
+								<p class="mb-2"><strong>10</strong> Projects</p>
+								<p class="mb-2"><strong>30Gb</strong> Storage</p>
+								<p class="mb-2"><strong>10</strong> Email Accounts</p>
+								<p class="mb-2"><strong>24/7</strong> Suporte</p>
+							</div>
+							<button class="btn btn-outline-theme mt-4">Choose this plan</button>
+						</div>
+					</div>
+					<!-- End grid column -->
+					
+					<!-- Grid column -->
+					<div class="col-lg-4 col-md-6 m-auto g-mb-md-2">
+						<div class="pricing text-center box-shadow-v2 p-5 rounded-12">
+							<h3 class="h6 ff-rubik text-uppercase">Business</h3>
+							<div class="pricing-value ff-Montserrat fw-600">
+								<span class="fs-40">$</span>
+								<span class="fs-70">99<sup>99</sup></span>
+								<span class="pricing-month">yearly</span>
+							</div>
+							<div class="pricing-body">
+								<p class="mb-2"><strong>5</strong> User</p>
+								<p class="mb-2"><strong>15</strong> Projects</p>
+								<p class="mb-2"><strong>50</strong> Storage</p>
+								<p class="mb-2"><strong>15</strong> Email Accounts</p>
+								<p class="mb-2"><strong>24/7</strong> Support</p>
+							</div>
+							<button class="btn btn-theme mt-4">Choose this plan</button>
+						</div>
+					</div>
+					<!-- End grid column -->
+				</div>
+				<!-- End grid row -->
+			</div>
+			<!-- End tab_panel_2 -->
+		</div>
+		<!-- End tab content -->
+	</div>
+	<!-- End grid wrap -->
+</section>
